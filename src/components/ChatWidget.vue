@@ -84,7 +84,7 @@
   .chat-container {
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: flex-end;
   }
   .bot-message {
     background-color: #f0f0f0;
